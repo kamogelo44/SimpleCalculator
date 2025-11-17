@@ -1,46 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-
-/*
-BEGIN 
-->PRINT "This is a console-based calculator"
-->PRINT "Enter first number:"
-->ENTER num1
-->PRINT "First Number = " + num1
-
-->PRINT "Operator: (+, -, *, /)"
-->ENTER Operator
-
-->PRINT "Enter Your second number:"
-->ENTER num2
-->PRINT "Second number = " + num2
-
-result
-->switch(operator)
-    case '+'
-    addition = +
-
-    case '-'
-    subtraction = - 
-
-    case '*'
-    product = *
-
-    case '/'
-    division = /
-
-    default
---->PRINT "Operation Unknown"
-
-->if 
-    
-    
-
-
-
-
-*/
 package com.simplecalculator;
 
 import java.util.Scanner;
