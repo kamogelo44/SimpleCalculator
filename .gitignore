@@ -1,0 +1,13 @@
+# NetBeans IDE
+nbproject/
+build/
+dist/
+.nb-gradle/
+*.zip
+
+# Compiled class files
+*.class
+
+# System files
+.DS_Store
+Thumbs.db
